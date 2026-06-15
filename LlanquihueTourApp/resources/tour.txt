@@ -1,0 +1,8 @@
+Ruta Gastronómica;Gastronomía;35000
+Paseo Lacustre Llanquihue;Lacustre;28000
+Excursión Volcán Osorno;Aventura;45000
+Tour Cultural Puerto Montt;Cultural;22000
+Ruta de los Colonos;Historia;18000
+Tour Cervezas Artezanales;Gastronomia;30000
+Excursión Volcan Villarrica;Aventura;29000
+Termas Los Posones;Lacustre;15000
